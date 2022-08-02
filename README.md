@@ -1,8 +1,6 @@
 # Awesome-BEV-Perception
 Papers related to BEV perception
 
-<img src="/photo/PETR.png" width="100%"/>
-
 #### Preliminaries
 + DETR
 + Deformable DETR
@@ -16,7 +14,8 @@ Papers related to BEV perception
 + Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
 
 #### 3D semantic seg
-+ BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
++ BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)]
++ CVT: Cross-view Transformers for real-time Map-view Semantic Segmentation [[paper](http://www.philkr.net/media/zhou2022crossview.pdf)] [[Github](https://github.com/bradyz/cross_view_transformers)] 
 
 #### 3D detection + semantic seg
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
@@ -27,16 +26,5 @@ Papers related to BEV perception
 #### Spatio + temporal BEV
 + BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers [[paper](https://arxiv.org/abs/2203.17270)] [[Github](https://github.com/zhiqi-li/BEVFormer)] 
 + BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection [[paper](https://arxiv.org/abs/2203.17054)]
-+ CVT: Cross-view Transformers for real-time Map-view Semantic Segmentation [[paper](http://www.philkr.net/media/zhou2022crossview.pdf)] [[Github](https://github.com/bradyz/cross_view_transformers)] 
 
-
-+ Translating Images into Maps [[paper](https://arxiv.org/pdf/2110.00966.pdf)][[Github](https://github.com/avishkarsaha/translating-images-into-maps)]
-+ M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
-+ BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
-
-#### Multi-sensor fusion
-+ FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/abs/2203.10642)]  [[Github](https://github.com/Tsinghua-MARS-Lab/futr3d)]
-+ BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
-+ Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
-+ BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
 
